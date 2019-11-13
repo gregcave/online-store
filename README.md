@@ -1,5 +1,5 @@
 # online-store
-An online shopping site for a hypothetical company which sells books, music CDs, games and DVDs
+An online shopping site for a hypothetical company which sells books, games and DVDs
 
 ## Design of the Site
 
